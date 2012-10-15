@@ -1,7 +1,7 @@
 Stresser
 ========
 
-Stresser is stress-test-tool.
+Stresser is a stress-test-tool.
 It produces a large quantity of specified processes.
 
 Install
