@@ -1,0 +1,20 @@
+{
+  "name": "stresser",
+  "version": "0.0.1",
+  "description": "Stresser is stress-test-tool. It produces a large quantity of specified processes.",
+  "main": "stresser.js",
+  "dependencies": {
+    "optimist": "~0.3.5",
+    "async": "~0.1.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmtysk"
+  },
+  "author": "tmtysk",
+  "license": "MIT"
+}
