@@ -21,7 +21,8 @@ Run with loop count, concurrency and program.
 Known Bugs
 ==========
 
-* Running a huge count of processes, throws following error:
+Running a huge count of processes, throws following error:
+
     Error: spawn EMFILE
         at errnoException (child_process.js:847:11)
         at ChildProcess.spawn (child_process.js:794:11)
